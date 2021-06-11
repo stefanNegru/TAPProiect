@@ -1,0 +1,435 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAPProiect\\TAP.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\TAP.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\TAP.Core.csproj",
+        "projectName": "TAP.Core",
+        "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\TAP.Core.csproj",
+        "packagesPath": "C:\\Users\\sns_4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sns_4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess.SqlServer\\TAP.DataAccess.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess.SqlServer\\TAP.DataAccess.SqlServer.csproj",
+        "projectName": "TAP.DataAccess.SqlServer",
+        "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess.SqlServer\\TAP.DataAccess.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\sns_4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sns_4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\TAP.Core.csproj": {
+                "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\TAP.Core.csproj"
+              },
+              "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess\\TAP.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess\\TAP.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess\\TAP.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess\\TAP.DataAccess.csproj",
+        "projectName": "TAP.DataAccess",
+        "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess\\TAP.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\sns_4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sns_4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\TAP.Core.csproj": {
+                "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\TAP.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Serives.Identity\\TAP.Serices.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Serives.Identity\\TAP.Serices.Identity.csproj",
+        "projectName": "TAP.Serices.Identity",
+        "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Serives.Identity\\TAP.Serices.Identity.csproj",
+        "packagesPath": "C:\\Users\\sns_4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Serives.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sns_4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\TAP.Core.csproj": {
+                "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\TAP.Core.csproj"
+              },
+              "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess\\TAP.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess\\TAP.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Services\\TAP.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Services\\TAP.Services.csproj",
+        "projectName": "TAP.Services",
+        "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Services\\TAP.Services.csproj",
+        "packagesPath": "C:\\Users\\sns_4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sns_4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\TAP.Core.csproj": {
+                "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\TAP.Core.csproj"
+              },
+              "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess.SqlServer\\TAP.DataAccess.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess.SqlServer\\TAP.DataAccess.SqlServer.csproj"
+              },
+              "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess\\TAP.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess\\TAP.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAPProiect\\TAP.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAPProiect\\TAP.Web.csproj",
+        "projectName": "TAP.Web",
+        "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAPProiect\\TAP.Web.csproj",
+        "packagesPath": "C:\\Users\\sns_4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAPProiect\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sns_4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\TAP.Core.csproj": {
+                "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Core\\TAP.Core.csproj"
+              },
+              "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess.SqlServer\\TAP.DataAccess.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess.SqlServer\\TAP.DataAccess.SqlServer.csproj"
+              },
+              "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess\\TAP.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.DataAccess\\TAP.DataAccess.csproj"
+              },
+              "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Serives.Identity\\TAP.Serices.Identity.csproj": {
+                "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Serives.Identity\\TAP.Serices.Identity.csproj"
+              },
+              "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Services\\TAP.Services.csproj": {
+                "projectPath": "C:\\Users\\sns_4\\OneDrive\\Рабочий стол\\TAPProiect\\src\\TAP.Services\\TAP.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

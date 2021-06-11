@@ -1,0 +1,45 @@
+﻿@model TAP.Web.Areas.Account.Models.EditUserViewModel
+@{
+    ViewData["Title"] = "Edit User";
+}
+<h4>Edit User Info</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @using (Html.BeginForm("EditUser", "Authentication", FormMethod.Post))
+        {
+            <div class="text-danger">
+                <ul>
+                    @foreach (var error in ViewData.ModelState.SelectMany(_ => _.Value.Errors))
+                    {
+                        <li>
+                            @error.ErrorMessage
+                        </li>
+                    }
+                </ul>
+            </div>
+            <div class="form-group">
+                @Html.Label("Username", "Username")
+                @Html.TextBoxFor(_ => _.User.Name, new { @disabled = "disabled", @class = "form-control",Value=Model.User.Name })
+            </div>
+            <div class="form-group">
+                @Html.Label("CurrentPassword", "Current Password")
+                @Html.TextBoxFor(_ => _.CurrentPassword, new { type = "password", @class = "form-control" })
+                @Html.ValidationMessageFor(_ => _.CurrentPassword, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("NewPassword", "New Password")
+                @Html.TextBoxFor(_ => _.NewPassword, new { type = "password", @class = "form-control" })
+                @Html.ValidationMessageFor(_ => _.NewPassword, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.AntiForgeryToken()
+                <input type="submit" value="Update" class="btn btn-primary" />
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

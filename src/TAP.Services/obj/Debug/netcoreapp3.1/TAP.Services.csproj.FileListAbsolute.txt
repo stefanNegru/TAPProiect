@@ -1,0 +1,17 @@
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\obj\Debug\netcoreapp3.1\TAP.Services.csprojAssemblyReference.cache
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\obj\Debug\netcoreapp3.1\TAP.Services.AssemblyInfoInputs.cache
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\obj\Debug\netcoreapp3.1\TAP.Services.AssemblyInfo.cs
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\obj\Debug\netcoreapp3.1\TAP.Services.csproj.CoreCompileInputs.cache
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\bin\Debug\netcoreapp3.1\TAP.Services.deps.json
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\bin\Debug\netcoreapp3.1\TAP.Services.dll
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\bin\Debug\netcoreapp3.1\TAP.Services.pdb
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\bin\Debug\netcoreapp3.1\TAP.Core.dll
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\bin\Debug\netcoreapp3.1\TAP.DataAccess.dll
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\bin\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.dll
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\bin\Debug\netcoreapp3.1\TAP.Core.pdb
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\bin\Debug\netcoreapp3.1\TAP.Core.dll.config
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\bin\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.pdb
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\bin\Debug\netcoreapp3.1\TAP.DataAccess.pdb
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\obj\Debug\netcoreapp3.1\TAP.Services.csproj.CopyComplete
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\obj\Debug\netcoreapp3.1\TAP.Services.dll
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Services\obj\Debug\netcoreapp3.1\TAP.Services.pdb

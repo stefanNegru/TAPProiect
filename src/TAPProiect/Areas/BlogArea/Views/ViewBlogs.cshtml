@@ -1,0 +1,44 @@
+﻿@model TAP.Web.Areas.BlogArea.Models.BlogViewModel
+@{
+    ViewData["Title"] = "View";
+}
+
+<div class="container">
+    @if (Model.Blogs.Count() > 0)
+    {
+        <table class="table">
+            <thead class="thead-light">
+                <tr>
+                    <th scope="col"></th>
+                    <th scope="col">Author</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Content</th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Blogs)
+                {
+                    <tr>
+                        
+                        <td>
+                            @item.Item1.Author.Name
+                        </td>
+                        <td>
+                            @item.Item1.Title
+                        </td>
+                        <td>
+                            @item.Item1.Content
+                        </td>
+                        
+
+                        <td>
+                            @Html.ActionLink("Remove", "RemovePlaylistSong", "Playlists", new { id = item.Item2, playlistId = Model.PlaylistId }, new { @class = "btn btn-danger" })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    
+</div>

@@ -1,0 +1,42 @@
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Core.dll
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.DataAccess.dll
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.csprojAssemblyReference.cache
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.AssemblyInfoInputs.cache
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.AssemblyInfo.cs
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Web.Views.dll
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Web.Views.pdb
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Web.deps.json
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Web.runtimeconfig.json
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Web.runtimeconfig.dev.json
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\appsettings.local.Development.json
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\appsettings.local.json
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Web.exe
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.deps.json
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.dll
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.pdb
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Web.dll
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Core.pdb
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Core.dll.config
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.DataAccess.pdb
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Web.pdb
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.csproj.CopyComplete
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.dll
+C:\Users\sns_4\source\repos\TAPProiect\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.pdb
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.deps.json
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.dll
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.pdb
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Core.dll
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.DataAccess.dll
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Core.pdb
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.Core.dll.config
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\bin\Debug\netcoreapp3.1\TAP.DataAccess.pdb
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.csprojAssemblyReference.cache
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.AssemblyInfoInputs.cache
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.AssemblyInfo.cs
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.csproj.CopyComplete
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.dll
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.DataAccess.SqlServer\obj\Debug\netcoreapp3.1\TAP.DataAccess.SqlServer.pdb

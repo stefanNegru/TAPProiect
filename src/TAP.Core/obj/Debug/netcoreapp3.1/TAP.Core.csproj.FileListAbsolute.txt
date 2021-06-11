@@ -1,0 +1,20 @@
+C:\Users\sns_4\source\repos\TAPProiect\TAP.Core\bin\Debug\netcoreapp3.1\TAP.Core.dll.config
+C:\Users\sns_4\source\repos\TAPProiect\TAP.Core\bin\Debug\netcoreapp3.1\TAP.Core.deps.json
+C:\Users\sns_4\source\repos\TAPProiect\TAP.Core\bin\Debug\netcoreapp3.1\TAP.Core.dll
+C:\Users\sns_4\source\repos\TAPProiect\TAP.Core\bin\Debug\netcoreapp3.1\TAP.Core.pdb
+C:\Users\sns_4\source\repos\TAPProiect\TAP.Core\obj\Debug\netcoreapp3.1\TAP.Core.csprojAssemblyReference.cache
+C:\Users\sns_4\source\repos\TAPProiect\TAP.Core\obj\Debug\netcoreapp3.1\TAP.Core.AssemblyInfoInputs.cache
+C:\Users\sns_4\source\repos\TAPProiect\TAP.Core\obj\Debug\netcoreapp3.1\TAP.Core.AssemblyInfo.cs
+C:\Users\sns_4\source\repos\TAPProiect\TAP.Core\obj\Debug\netcoreapp3.1\TAP.Core.csproj.CoreCompileInputs.cache
+C:\Users\sns_4\source\repos\TAPProiect\TAP.Core\obj\Debug\netcoreapp3.1\TAP.Core.dll
+C:\Users\sns_4\source\repos\TAPProiect\TAP.Core\obj\Debug\netcoreapp3.1\TAP.Core.pdb
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Core\bin\Debug\netcoreapp3.1\TAP.Core.dll.config
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Core\bin\Debug\netcoreapp3.1\TAP.Core.deps.json
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Core\bin\Debug\netcoreapp3.1\TAP.Core.dll
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Core\bin\Debug\netcoreapp3.1\TAP.Core.pdb
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Core\obj\Debug\netcoreapp3.1\TAP.Core.csprojAssemblyReference.cache
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Core\obj\Debug\netcoreapp3.1\TAP.Core.AssemblyInfoInputs.cache
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Core\obj\Debug\netcoreapp3.1\TAP.Core.AssemblyInfo.cs
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Core\obj\Debug\netcoreapp3.1\TAP.Core.csproj.CoreCompileInputs.cache
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Core\obj\Debug\netcoreapp3.1\TAP.Core.dll
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Core\obj\Debug\netcoreapp3.1\TAP.Core.pdb

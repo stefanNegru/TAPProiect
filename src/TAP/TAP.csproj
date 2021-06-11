@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TAP.Core\TAP.Core.csproj" />
+    <ProjectReference Include="..\TAP.DataAccess.SqlServer\TAP.DataAccess.SqlServer.csproj" />
+    <ProjectReference Include="..\TAP.DataAccess\TAP.DataAccess.csproj" />
+    <ProjectReference Include="..\TAPProiect\TAP.Web.csproj" />
+  </ItemGroup>
+
+</Project>

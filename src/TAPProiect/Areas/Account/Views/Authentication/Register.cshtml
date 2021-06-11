@@ -1,0 +1,49 @@
+﻿@model TAP.Web.Areas.Account.Models.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+<h4>Register</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @using (Html.BeginForm("Register", "Authentication", FormMethod.Post))
+        {
+            <div class="text-danger">
+                <ul>
+                    @foreach (var error in ViewData.ModelState.SelectMany(_ => _.Value.Errors))
+                    {
+                        <li>
+                            @error.ErrorMessage
+                        </li>
+                    }
+                </ul>
+            </div>
+            <div class="form-group">
+                @Html.Label("Username", "Username")
+                @Html.TextBoxFor(_ => _.Username, new { @class = "form-control" })
+                @Html.ValidationMessageFor(_ => _.Username, "", new { @class = "text-danger" })
+                <span asp-validation-for="title"></span>
+            </div>
+            <div class="form-group">
+                @Html.Label("Email", "Email")
+                @Html.TextBoxFor(_ => _.Email, new { @class = "form-control" })
+                @Html.ValidationMessageFor(_ => _.Email, "", new { @class = "text-danger" })
+                <span asp-validation-for="title"></span>
+            </div>
+            <div class="form-group">
+                @Html.Label("Password", "Password")
+                @Html.TextBoxFor(_ => _.Password, new { @class = "form-control", type = "Password" })
+                @Html.ValidationMessageFor(_ => _.Password, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.AntiForgeryToken()
+                <input type="submit" value="Register" class="btn btn-primary" />
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,4 @@
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Storage.Access\obj\Debug\netcoreapp3.1\TAP.StorageAccess.csprojAssemblyReference.cache
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Storage.Access\obj\Debug\netcoreapp3.1\TAP.StorageAccess.AssemblyInfoInputs.cache
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Storage.Access\obj\Debug\netcoreapp3.1\TAP.StorageAccess.AssemblyInfo.cs
+C:\Users\sns_4\OneDrive\Рабочий стол\TAPProiect\src\TAP.Storage.Access\obj\Debug\netcoreapp3.1\TAP.StorageAccess.csproj.CoreCompileInputs.cache
